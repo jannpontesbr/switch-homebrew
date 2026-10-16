@@ -1,3 +1,4 @@
+ola aqui o jann vo atualiza algumas informações la no final nao apagarei oque ja foi falado so adicionarei novas informacoes.
 # Awesome Nintendo Switch Homebrew
 
 A curated collection of awesome things related to Nintendo Switch hacking and homebrew.
@@ -175,7 +176,7 @@ Most homebrew games are ports of open source games or game engines. Game engines
 - [Sonic 3 A.I.R.](https://s3airswitch.jojudge.com/) - Port of Sonic 3 & Knuckles remaster
 - [Taisei Project](https://taisei-project.org/) - Awesome bullet hell shoot'em up
 
-### Emulation
+### Emulation (antiga)
 
 The emulation performance of the Switch is excellent. RetroArch is a great "one-stop-shop" for most emulation needs. For more
 demanding systems like Sony PSP and Nintendo DS, standalone emulators like PPSSPP can have better performance.
@@ -184,6 +185,59 @@ demanding systems like Sony PSP and Nintendo DS, standalone emulators like PPSSP
 - [RetroArch](https://www.retroarch.com/?page=platforms) - Multi-platform emulation framework
 - [PPSSPP](https://www.ppsspp.org/downloads.html) - Standalone PSP emulator
 - [pemu (pFBN, pNES, pSNES)](https://github.com/Cpasjuste/pemu) - Suite of standalone emulators by Cpasjuste
+### Emulacao novos links
+
+Emulador de play 2 
+https://github.com/NaGaa95/NetherSX2_nx
+https://github.com/PalindromicBreadLoaf/ARMSX2-NX
+
+
+Tico (multi plataformas)
+https://github.com/ticohq/tico
+
+Retroarch  (multi plataformas)
+https://buildbot.libretro.com/stable/1.22.2/nintendo/switch/libnx/RetroArch.7z
+
+Emulador de Wii u
+https://github.com/NaGaa95/Cemu-nx
+
+ Emulado de psvita 
+https://github.com/NaGaa95/Vita3K-nx
+
+Emulador Wii GameCube 
+https://github.com/NaGaa95/dolphin-nx
+
+Emulado de Pc
+https://github.com/autorunhq/autorun
+
+Emulador de Nintendo DS
+https://github.com/NaGaa95/DrasticDS_nx
+https://github.com/Hydr8gon/NooDS
+https://github.com/trulymust/melonDS-switch-upscale
+
+Emulador de Nintendo 3DS
+https://github.com/Raibatsu/raikopon/releases/
+https://github.com/PalindromicBreadLoaf/dekopon
+
+Emulador de PSP
+https://github.com/NaGaa95/ppsspp-nx
+https://github.com/SirSamael/ppsspp-switch-community-build
+
+ Emulador de GBA
+https://github.com/mgba-emu/mgba/releases/tag/0.10.5
+
+Emulador de N64
+https://github.com/Hydr8gon/rokuyon
+
+ Emulador De alguns Jogos de Mame
+https://github.com/flyinghead/flycast
+Emulador
+https://www.scummvm.org/compatibility/
+https://downloads.scummvm.org/frs/scummvm/2026.4.0/scummvm-2026.4.0-switch.zip
+
+
+Emulador pemu (multiplataforma)
+https://github.com/Cpasjuste/pemu
 
 ### Media and Streaming
 
