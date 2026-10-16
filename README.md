@@ -231,6 +231,7 @@ https://github.com/Hydr8gon/rokuyon
 
  Emulador De alguns Jogos de Mame
 https://github.com/flyinghead/flycast
+
 Emulador
 https://www.scummvm.org/compatibility/
 https://downloads.scummvm.org/frs/scummvm/2026.4.0/scummvm-2026.4.0-switch.zip
