@@ -157,6 +157,26 @@ Tesla is a homebrew which allows custom menus to be displayed over a game, simil
 - [Status Monitor Overlay](https://github.com/masagrator/Status-Monitor-Overlay) - Monitor many stats of Nintendo Switch hardware
 - [sys-clk-Overlay](https://github.com/Sun-Research-University/sys-clk-Overlay) - Overlay for managing sys-clk system module settings
 
+### Aqui resumirei com homebrew gerais sejam aplicacoes em ovl ou nros
+
+Fan control
+https://github.com/dominatorul/NX-FanControl
+https://github.com/Lightos1/NX-FanControl
+
+switch u novo
+https://github.com/ncarvalho99/omnilauncher/releases/tag/v1.1.0
+
+Akira substitui o chiaki
+https://github.com/xlanor/akira
+
+Saltnx
+https://github.com/masagrator/SaltyNX/releases
+
+- [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - PS4/PS5 remote play client
+- [Moonlight-NX](https://github.com/rock88/moonlight-nx) - Game streaming for PCs with NVIDIA graphics cards
+- [SKyNX](https://github.com/DevL0rd/SkyNX) - PC game streaming
+
+
 ### Games
 
 Most homebrew games are ports of open source games or game engines. Game engines will typically require files from the original game, or game packs, for full functionality.
@@ -240,8 +260,4 @@ https://downloads.scummvm.org/frs/scummvm/2026.4.0/scummvm-2026.4.0-switch.zip
 Emulador pemu (multiplataforma)
 https://github.com/Cpasjuste/pemu
 
-### Media and Streaming
 
-- [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - PS4/PS5 remote play client
-- [Moonlight-NX](https://github.com/rock88/moonlight-nx) - Game streaming for PCs with NVIDIA graphics cards
-- [SKyNX](https://github.com/DevL0rd/SkyNX) - PC game streaming
