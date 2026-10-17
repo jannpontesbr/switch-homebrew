@@ -1,4 +1,4 @@
-ola aqui o jann vo atualiza algumas informações la no final nao apagarei oque ja foi falado so adicionarei novas informacoes.
+
 # Awesome Nintendo Switch Homebrew
 
 A curated collection of awesome things related to Nintendo Switch hacking and homebrew.
@@ -157,16 +157,16 @@ Tesla is a homebrew which allows custom menus to be displayed over a game, simil
 - [Status Monitor Overlay](https://github.com/masagrator/Status-Monitor-Overlay) - Monitor many stats of Nintendo Switch hardware
 - [sys-clk-Overlay](https://github.com/Sun-Research-University/sys-clk-Overlay) - Overlay for managing sys-clk system module settings
 
-### Aqui resumirei com homebrew gerais sejam aplicacoes em ovl ou nros
+### Here, I will summarize how general homebrew—whether in .ovl or .nro format—is applied.
 
 Fan control
 https://github.com/dominatorul/NX-FanControl
 https://github.com/Lightos1/NX-FanControl
 
-switch u novo
+switch u new
 https://github.com/ncarvalho99/omnilauncher/releases/tag/v1.1.0
 
-Akira substitui o chiaki
+Akira replaces Chiaki
 https://github.com/xlanor/akira
 
 Saltnx
@@ -196,7 +196,7 @@ Most homebrew games are ports of open source games or game engines. Game engines
 - [Sonic 3 A.I.R.](https://s3airswitch.jojudge.com/) - Port of Sonic 3 & Knuckles remaster
 - [Taisei Project](https://taisei-project.org/) - Awesome bullet hell shoot'em up
 
-### Emulation (antiga)
+### Emulation (former)
 
 The emulation performance of the Switch is excellent. RetroArch is a great "one-stop-shop" for most emulation needs. For more
 demanding systems like Sony PSP and Nintendo DS, standalone emulators like PPSSPP can have better performance.
@@ -205,65 +205,63 @@ demanding systems like Sony PSP and Nintendo DS, standalone emulators like PPSSP
 - [RetroArch](https://www.retroarch.com/?page=platforms) - Multi-platform emulation framework
 - [PPSSPP](https://www.ppsspp.org/downloads.html) - Standalone PSP emulator
 - [pemu (pFBN, pNES, pSNES)](https://github.com/Cpasjuste/pemu) - Suite of standalone emulators by Cpasjuste
-### Emulacao novos links
+### Emulacao new links
 
-Emulador de play 2 
+PlayStation 2 emulator
 https://github.com/NaGaa95/NetherSX2_nx
 https://github.com/PalindromicBreadLoaf/ARMSX2-NX
 
 
-Tico (multi plataformas)
+Tico (multi-platform)
 https://github.com/ticohq/tico
 
-Retroarch  (multi plataformas)
+Retroarch  (multi-platform)
 https://buildbot.libretro.com/stable/1.22.2/nintendo/switch/libnx/RetroArch.7z
 
-Emulador de Wii u
+Wii U emulator
 https://github.com/NaGaa95/Cemu-nx
 
- Emulado de psvita 
+ PS Vita emulator
 https://github.com/NaGaa95/Vita3K-nx
 
-Emulador Wii GameCube 
+Wii GameCube Emulator
 https://github.com/NaGaa95/dolphin-nx
 
-Emulado de Pc
+Wine PC simulator
 https://github.com/autorunhq/autorun
 
-Emulador de Nintendo DS
+Nintendo DS emulator
 https://github.com/NaGaa95/DrasticDS_nx
 https://github.com/Hydr8gon/NooDS
 https://github.com/trulymust/melonDS-switch-upscale
 
-Emulador de Nintendo 3DS
+Nintendo 3DS Emulator
 https://github.com/Raibatsu/raikopon/releases/
 https://github.com/PalindromicBreadLoaf/dekopon
 
-Emulador de PSP
+PSP Emulator
 https://github.com/NaGaa95/ppsspp-nx
 https://github.com/SirSamael/ppsspp-switch-community-build
 
- Emulador de GBA
+ GBA Emulator
 https://github.com/mgba-emu/mgba/releases/tag/0.10.5
 
-Emulador de N64
+N64 Emulator
 https://github.com/Hydr8gon/rokuyon
 
- Emulador De alguns Jogos de Mame
+ Emulator for some MAME games
 https://github.com/flyinghead/flycast
 
-Emulador
+Emulator
 https://www.scummvm.org/compatibility/
 https://downloads.scummvm.org/frs/scummvm/2026.4.0/scummvm-2026.4.0-switch.zip
 
-
-Emulador pemu (multiplataforma)
+Emulator (multi-platform)
 https://github.com/Cpasjuste/pemu
 
-Emulador mugen
+Emulator mugen
 https://github.com/juanp9180-cmyk/ikemen-nx
-
-Emulador de Flash
+Emulator de Flash
 https://github.com/Jonathan8520/FlashNX/releases
 
 
