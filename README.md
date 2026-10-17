@@ -260,4 +260,10 @@ https://downloads.scummvm.org/frs/scummvm/2026.4.0/scummvm-2026.4.0-switch.zip
 Emulador pemu (multiplataforma)
 https://github.com/Cpasjuste/pemu
 
+Emulador mugen
+https://github.com/juanp9180-cmyk/ikemen-nx
+
+Emulador de Flash
+https://github.com/Jonathan8520/FlashNX/releases
+
 
