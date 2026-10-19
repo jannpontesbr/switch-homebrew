@@ -228,7 +228,7 @@ Wii GameCube Emulator
 https://github.com/NaGaa95/dolphin-nx
 
 Wine PC simulator
-https://github.com/autorunhq/autorun
+https://github.com/qret/autorun
 
 Nintendo DS emulator
 https://github.com/NaGaa95/DrasticDS_nx
@@ -261,6 +261,7 @@ https://github.com/Cpasjuste/pemu
 
 Emulator mugen
 https://github.com/juanp9180-cmyk/ikemen-nx
+
 Emulator de Flash
 https://github.com/Jonathan8520/FlashNX/releases
 
